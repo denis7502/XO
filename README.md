@@ -19,7 +19,7 @@ Q-Tables
 DQN
 Второй алгоритм связан с построением нейро-сети
 
-
+Чуть подробнее можно посомотреть в презентации
 https://docs.google.com/presentation/d/1AYKv4RfR_iuCDl209YvzsG0c5uOAgSIK/edit?usp=sharing&ouid=116702320194315232758&rtpof=true&sd=true
 
 
